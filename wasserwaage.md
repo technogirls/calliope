@@ -16,4 +16,4 @@ Dann vergleichen wir einfach wie auf einem Zahlenstrahl, wenn "neigung":
 
 und zeigen dann das entsprechende Bild.
 
-![](or-wasserwaage.jpg)
+![](img/or-wasserwaage.jpg)
