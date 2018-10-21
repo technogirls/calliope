@@ -17,6 +17,7 @@ Wir haben zwei Klassensätze (a 25) Calliope am BeBe diese wurden aus Spenden fi
 * Tasten
 * Laufschrift
 * RGB-LED Farbwechsel
+* [Disco-LED](disco.md) (Random x,y,helligkeit) 
 * Lärmampel
 * Fledermaus Abstandsmesser (mit Groove Sensor), dann mit verbundenen Augen durchs Schulhaus
 * Smileys senden über Bluetooth Verbindung, Smiley aus liste auswählen und senden
@@ -24,7 +25,6 @@ Wir haben zwei Klassensätze (a 25) Calliope am BeBe diese wurden aus Spenden fi
 * Spiel mit Remote-Würfel und zentralem Spiel in der Mitte
 * Zahlen-Rate-Spiel (Zufallszahl wird per Klick verringert, Weitergeben, wer auf 0 kommt hat verloren)
 * Timer Countdown mit Aktion (Song, Lichter, Töne) bei Ablauf und Einstellen der Zeit
-* Disco-LED (Random x,y,helligkeit) 
 * Neopixel (Mit MakeCode, NeoPixel Erweiterung)
 * Musik (mit Noten) - *benötigt Lautsprecher sonst klingt es schlecht und die Kids sind frustriert*
 * Weihnachtsbaumschmuck (Laufschrift, Lichter, Lichterkette, Musik) Calliopes mit verschiedenen Programmen als Baumanhänger.

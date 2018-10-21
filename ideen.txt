@@ -1,0 +1,36 @@
+Sagen Sie erstmal keine Befehle oder Kategorien vor, wo ein Befehl zu finden ist vor, sondern lassen Sie die Kinder selbst suchen und probieren.
+
+
+Projekte
+
+- Eigenes Material mit den Kindern produzieren und veröffentlichen
+- Guessing Game -> Zufallszahl, Reihum kann jeder Spieler bis zu 4x drücken, wenn die Zahl erreicht wird ist das Spiel vorbei und der Spieler hat verloren.
+
+- Eine simple Spielstandsanzeige. 'A' erhöht die Heimmannschaft, 'B' die Gastmannschaft und Schütteln setzt auf 0:0 zurück.
+  - Farbanzeige, wenn Heim führt Grün, sonst Gelb, Rot
+
+- Rechentrainer
+- Lautstärkeampel
+- Punkt in richtung der Ausrichtung bewegen
+- Wetterstation
+- Motorsteuerung
+- LEDs leuchten lassen
+- Helligkeit Mikrofon
+- P0-P03 via Umschlag-Klemmen durch pappe
+- Aufzugprogrammierung mit motorsteuerung
+- Eieruhr
+- Ausweich-Spiel
+- Klavier mit Pins und Alltagsgegenständen
+- Tamagotchi
+
+Editoren:
+- Download !? - Schulnetz
+- OpenRoberta: https://github.com/OpenRoberta/robertalab
+- ARM toolchain: https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads
+- Docker: https://hub.docker.com/r/exmatrikulator/robertalab/
+- https://github.com/exmatrikulator/robertalab/blob/docker/Dockerfile
+
+Material:
+
+- Software AG: Calliope mini: Überblick und Fazit nach einem Schulhalbjahr Einsatz im Unterricht
+  https://www.youtube.com/watch?v=ndYACwQM2Wc&list=PLDe6WVZUD6thwLYmuKwlMT6MoF98VO8rB
