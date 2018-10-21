@@ -29,8 +29,9 @@ Wir haben zwei Klassensätze (a 25) Calliope am BeBe diese wurden aus Spenden fi
 
 * [Tasten, Laufschrift, Bilder, LED](erste-schritte.md)
 * RGB-LED Farbwechsel
-* [Disco-LED](disco.md) (Random x,y,helligkeit) 
+* [Disco-LED](disco.md) (Zufälliges Setzen von Pixeln: X,Y,Helligkeit) 
 * [Würfel](wuerfel.md) mit Würfel-Anzeige
+* [Lichter Fangen](licht-fangen.md)
 * Lärmampel
 * [Wasserwaage](wasserwaage.md)
 * [Fledermaus Abstandsmesser](fledermaus.md) (mit Groove Sensor), dann mit verbundenen Augen durchs Schulhaus

@@ -16,7 +16,6 @@
 4. LED Snake, mit Tasten "A" nach Links und "B" nach Rechts lenken und Futter fressen lassen
 
 
-
 ## Texte, Bilder und Farben anzeigen
 
 Ihr kennt jetzt schon die Tasten und das Anzeigefeld.
@@ -27,6 +26,8 @@ Zum Ausprobieren kann man direkt nach dem Start eine Aktion starten um zu sehen 
 Es ist auch prima am Simulator am Computer zu testen, dann weiss man schonmal dass es funktionieren sollte.
 
 OpenRoberta: "Sim"-Feld klicken und mit dem kleinen Play-Dreieck (rechts!) starten
+
+![](img/openroberta.jpg)
 
 MakeCode: Simulator ist links, wenn Du ihn nicht sehen kannst, dann mit dem kleinen Dreieck unten links anzeigen lassen
 Bei Make Code gibt es "beim Start" und "dauerhaft" als Anfangsaktionen.
