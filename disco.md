@@ -20,7 +20,7 @@ Vorgehen:
 
 FERTIG!!
 
-![]img/disco.png
+![](img/disco.jpg)
 
 
 Fortsetzung:
