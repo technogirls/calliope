@@ -17,6 +17,8 @@ Wir haben zwei Klassensätze (a 25) Calliope am BeBe diese wurden aus Spenden fi
 - Dann geht es los mit [Erste Schritte](erste-schritte.md) (LED, Laufschrift, LED-Feld)
 - Es macht Spass zum Schluss der Stunde einen Kreativblock zu lassen (10-15min) und dann eine "Demorunde" zu machen, dann kann jede Gruppe zeigen was sie noch gezaubert haben.
 
+![](img/openroberta.jpg)
+
 ## Links
 
 * https://calliope.cc/
@@ -25,14 +27,14 @@ Wir haben zwei Klassensätze (a 25) Calliope am BeBe diese wurden aus Spenden fi
 
 ## Was haben wir gemacht?
 
-* Tasten
-* Laufschrift
+* [Tasten, Laufschrift, Bilder, LED](erste-schritte.md)
 * RGB-LED Farbwechsel
 * [Disco-LED](disco.md) (Random x,y,helligkeit) 
+* [Würfel](wuerfel.md) mit Würfel-Anzeige
 * Lärmampel
-* Fledermaus Abstandsmesser (mit Groove Sensor), dann mit verbundenen Augen durchs Schulhaus
+* [Wasserwaage](wasserwaage.md)
+* [Fledermaus Abstandsmesser](fledermaus.md) (mit Groove Sensor), dann mit verbundenen Augen durchs Schulhaus
 * Smileys senden über Bluetooth Verbindung, Smiley aus liste auswählen und senden
-* Würfel mit Würfel-Anzeige
 * Spiel mit Remote-Würfel und zentralem Spiel in der Mitte
 * Zahlen-Rate-Spiel (Zufallszahl wird per Klick verringert, Weitergeben, wer auf 0 kommt hat verloren)
 * Timer Countdown mit Aktion (Song, Lichter, Töne) bei Ablauf und Einstellen der Zeit
