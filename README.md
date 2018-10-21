@@ -4,7 +4,18 @@ Calliope ist ein Mini-Computer ähnlich zu Arduino aber für den Schuluntericht 
 
 Wir haben zwei Klassensätze (a 25) Calliope am BeBe diese wurden aus Spenden finanziert.
 
-![Pingo mit Calliope und Programm](https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/059/623/fill_730x380_bp1514561376_Teddy.jpg)
+![Pingo mit Calliope und Programm](img/pingo-calliope.jpg)
+
+## Erste Schritte
+
+- Allen sollten in Paaren **zusammen sitzen**, dann können jeder sich gegenseitig helfen und bleiben nicht so schnell hängen.
+- Herumgehen und bei Probleme gleich helfen (Erinnern sich zu melden wenn jemand nicht weiterkommt)
+
+- Calliope auspacken, Batteriefach ansteckend und anschalten.
+- Dann die vorinstallierten Programme und Spiele vom kleinen Beipackheftchen ausprobieren lassen (das Menü ist manchmal etwas tricky).
+
+- Dann geht es los mit [Erste Schritte](erste-schritte.md) (LED, Laufschrift, LED-Feld)
+- Es macht Spass zum Schluss der Stunde einen Kreativblock zu lassen (10-15min) und dann eine "Demorunde" zu machen, dann kann jede Gruppe zeigen was sie noch gezaubert haben.
 
 ## Links
 
@@ -30,6 +41,26 @@ Wir haben zwei Klassensätze (a 25) Calliope am BeBe diese wurden aus Spenden fi
 * Weihnachtsbaumschmuck (Laufschrift, Lichter, Lichterkette, Musik) Calliopes mit verschiedenen Programmen als Baumanhänger.
 * LED-Punkt bewegen mittels Neigungssensor (Malprogramm, unsichtbaren Zufallspunkt finden)
 * Dämmerungssensor, Temperaturmesser
+
+## Tips
+
+Wichtig:
+
+- Anmeldung (z.b. bei OpenRoberta) nicht vergesssen
+- Regelmässig ans Speichern (Online) erinnern
+- MakeCode speichert im Browser, daher in Schulumgebungen schwierig
+- Die heruntergeladenen Binärdateien (.hex) können nur mit "MakeCode" wieder in den Editor geladen werden
+- In OpenRoberta muss man sie separat als XML "exportieren"
+
+Am schwierigsten ist der Download der Dateien auf den Calliope, die Browser speichern das Program im Download Ordner.
+
+Die Kinder mussten üben, diesen zu finden/öffnen, und das richtige Programm von da auf das "Mini"-Laufwerk zu ziehen.
+
+Die Programme werden oft nicht überschrieben, daher:
+
+- Auf die (1), (2), (3) Endungen achten
+- Nach Zeit sortieren
+- Manche Kinder geben ihren Programmen auch vor dem Download neue Namen
 
 ## Coole Ideen die wir ausprobieren wollen
 
